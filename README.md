@@ -1,8 +1,8 @@
 # TestProfSouz App
 The application was developed as a test assignment for testProfsouz
-#Getting start
+###Getting start
 To get started, you will need Android studio. If you want just see ready app - go to app/apk-debug
-#Built With
+###Built With
 Kotlin
 Android Compose
 Dagger
