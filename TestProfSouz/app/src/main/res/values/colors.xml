@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="first_palitre_color">#6A7180</color>
+    <color name="second_palitre_color">#598D9B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="main_text_color">#000000</color>
+    <color name="small_text_color">#808080</color>
+    <color name="text_for_select_color">#f5f5f5</color>
+    <color name="first_step_select_row">#9BBBC3</color>
+    <color name="other_step_select_row">#DEE8EB</color>
+</resources>
